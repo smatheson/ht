@@ -1,4 +1,4 @@
-# Humanizing Technology
+# Humanizing Technology - Scott's test fork
 
 **Description**: This course provides a broad overview of theories and applied efforts to humanize technology, particularly computer technology, over the past thirty years. Course readings will survey a variety of approaches to the topic, such as open source, human cognition, interface design, and theater. Students will complete applied projects but should also expect to write extensively on the topic.
 
